@@ -111,4 +111,4 @@ retailmart-data-pipeline/
 **Hemraj Singh**  
 B.Tech CSE (AI & Data Science) | Poornima University  
 [LinkedIn](https://www.linkedin.com/in/hemrajsingh2005) • 
-[GitHub](https://github.com/Hemraj-coder)
+[GitHub](https://github.com/HemrajSingh2005)
