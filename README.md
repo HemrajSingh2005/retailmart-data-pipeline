@@ -19,7 +19,9 @@ for reporting and decision-making.
 ## 🏗️ Pipeline Architecture
 
 sales_data.csv  ─┐
+
 products.csv    ──► Ingest → Clean → Transform → SQLite DB → Reports
+
 stores.csv      ─┘
 
 ---
@@ -92,9 +94,13 @@ python3 retailmart_pipeline.py
 ## 📁 Project Structure
 
 retailmart-data-pipeline/
+
 ├── retailmart_pipeline.py   # Main ETL pipeline
+
 ├── requirements.txt         # Dependencies
+
 ├── sample_data/             # Input CSV files
+
 └── output_screenshots/      # Terminal output proof
 
 ---
