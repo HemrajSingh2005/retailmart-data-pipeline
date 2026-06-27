@@ -100,8 +100,8 @@ python3 retailmart_pipeline.py
 ## 📊 Sample Output
 
 ![Pipeline Output1](output_screenshots/output_screenshot1.png)
-![Pipeline Output2](output_screenshots/output_screenshot2.png)
-![Pipeline Output3](output_screenshots/output_screenshot3.png)
+[Pipeline Output2](output_screenshots/output_screenshot2.png)
+[Pipeline Output3](output_screenshots/output_screenshot3.png)
 ---
 
 ## 📁 Project Structure
