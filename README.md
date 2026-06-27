@@ -34,6 +34,7 @@ stores.csv      ─┘
 | Pandas | Data ingestion, cleaning, transformation |
 | NumPy | Statistical calculations |
 | SQLite3 | Data loading and SQL querying |
+| Power BI | Interactive sales dashboard for business reporting |
 | Git + GitHub | Version control |
 
 ---
@@ -67,6 +68,17 @@ stores.csv      ─┘
 ### Stage 6 — Error Handling
 - Full pipeline wrapped in run_pipeline()
 - Handles: FileNotFoundError, EmptyDataError, sqlite3.Error
+
+---
+## 📊 Sales Dashboard
+
+Built an interactive Power BI dashboard covering:
+- KPI Cards — Total Revenue, Total Transactions, Top City, Top Product
+- Total Revenue by City (bar chart)
+- Top Products by Quantity Sold (bar chart)
+- Daily Revenue per Store (table)
+
+[View Dashboard (PDF)](dashboard/RetailMart_Dashboard.pdf)
 
 ---
 
